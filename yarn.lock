@@ -3277,10 +3277,10 @@ package-json@^6.3.0:
     registry-url "^5.0.0"
     semver "^6.2.0"
 
-pagination.djs@^4.0.10:
-  version "4.0.10"
-  resolved "https://registry.yarnpkg.com/pagination.djs/-/pagination.djs-4.0.10.tgz#b487a36de10fd5f89fddea0f9358ae13cfe2cf5e"
-  integrity sha512-a+ko2x8UdspKHcCkOUZ6IoZ8Ly65tMvrrazl99NOCIjDuy/MpFeBATc4NbH0ywbLlkiJGPnr1HrAW32EW79m8Q==
+pagination.djs@^4.0.12:
+  version "4.0.12"
+  resolved "https://registry.yarnpkg.com/pagination.djs/-/pagination.djs-4.0.12.tgz#3cc01e417d68588e358e0f0270d028eee43b4cd4"
+  integrity sha512-k9B1Yuoshrc7WFr23IpUh4rwY30hQZoPcANg7t8zG4+GR0vvLy0Bz5C5ttqSBkqAvYK2CKXfYGS6GzoRGegJFg==
 
 parent-module@^1.0.0:
   version "1.0.1"
